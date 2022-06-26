@@ -225,5 +225,5 @@ Project Link: [https://github.com/OneEyeX/Flask-template
 [license-shield]: https://img.shields.io/github/license/OneEyeX/Flask-template.svg?style=for-the-badge
 [license-url]: https://github.com/OneEyeX/Flask-template/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/chedly-chahed-a178a9196/
+[linkedin-url]: https://www.linkedin.com/in/chedly-chahed/
 [product-screenshot]: screenshots/A.png
