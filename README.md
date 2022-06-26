@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://github.com/OneEyeX/Flask-template
 /">
-    <img src="screenshots/flask.png" alt="Logo" width="100" height="100">
+    <img src="screenshots/flask.png" alt="Logo"   height="100">
   </a>
 
   <h3 align="center">Flask template</h3>
