@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}
+Login
+{% endblock title %}
+{% block content%}
+
+<br><br>
+{% include 'components/messages.html' %}
+<br><br><br><br>
+<form method="POST">
+  <div class="card ">
+    <div class="card-body">
+      <h3 class="card-title text-center">Login</h3>
+      <div class="form-group">
+        <label for="email">Email Address :</label>
+        <input type="email" class="form-control" id="email" name="email" placeholder="Enter email" required />
+      </div><br>
+      <div class="form-group">
+        <label for="password">Password :</label>
+        <input type="password" class="form-control" id="password" name="password" placeholder="Enter password"
+          required />
+      </div>
+      <br />
+      <center>
+        <button type="submit" class="btn btn-secondary btn-lg">Login</button>
+      </center>
+    </div>
+  </div>
+</form>
+
+
+{% endblock content %}

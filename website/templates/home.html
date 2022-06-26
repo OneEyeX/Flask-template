@@ -1,0 +1,61 @@
+{% extends "base.html" %} {% block title %}Home{% endblock %} {% block content
+%}
+<br>
+<h1 class="text-center">Notes</h1>
+<br>
+<hr><br>
+{% include 'components/messages.html' %}
+<br><br><br>
+<div class="card ">
+  <div class="card-body">
+    <div class="row">
+      <div class="col">
+        <form method="POST">
+          <div class="card ">
+            <div class="card-body">
+              <h3 class="card-title text-center">Add a new note</h3>
+
+              <div class="mb-3">
+                <label for="exampleFormControlTextarea1" class="form-label">Note :</label>
+                <textarea class="form-control" name="note" id="note" rows="5" placeholder="Type here"></textarea>
+              </div>
+              <br>
+              <center>
+                <button type="submit" class="btn btn-secondary btn-lg">Add Note</button>
+              </center>
+            </div>
+          </div>
+        </form>
+      </div>
+
+      {% if user.notes %}
+      <div class="col">
+        <div class="list-group">
+          <h5 class="mb-1">List of published Notes :</h5>
+          <br>
+          {% for note in user.notes %}
+          <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+            <div class="d-flex w-100 justify-content-between">
+              <h5 class="mb-1"> </h5>
+              <small class="text-muted">
+                <button type="button" class="close" onClick="deleteNote({{ note.id }})"
+                  style="border:none;border-radius:50%" aria-label="Close">
+                  <span aria-hidden="true"><b>&times;</b></span>
+                </button>
+              </small>
+            </div>
+            <p class="mb-1">
+              <strong> {{ note.data }}</strong>
+            </p>
+            <small class="text-muted">Added in : <b>{{ note.date }}</b></small>
+          </a>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+    </div>
+
+  </div>
+</div>
+
+{% endblock %}
