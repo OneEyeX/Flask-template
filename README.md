@@ -64,9 +64,9 @@ It's a simple Flask template contains some fundamental functionalities (login, l
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Flask-template Screen Shot][product-screenshot]](screenshots/flask.png)
-
 It's a simple Flask template contains some fundamental functionalities (login, logout, add and delete stuff) for your project to save you some time for focusing on other things.
+
+[![Flask-template Screen Shot][product-screenshot]](screenshots/flask.png)
 
 ### other screenshots
 
