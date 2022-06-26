@@ -12,25 +12,25 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/OneEyeX/Share-Your-Best-Pics
+  <a href="https://github.com/OneEyeX/Flask-template
 /">
-    <img src="static/img/favicon.png" alt="Logo" width="80" height="80">
+    <img src="screenshots/flask.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Share Your Best Pics</h3>
+  <h3 align="center">Flask template</h3>
 
   <p align="center">
-    it's a social network in which people can share their best pictures with others, interact with them by liking their posts or following them.
+It's a simple Flask template contains some fundamental functionalities (login, logout, add and delete stuff) for your project to save you some time for focusing on other things.
     <br />
     <!-- <a href="#"><strong>Explore the docs »</strong></a> -->
     <br />
     <br />
-    <!-- <a href="https://oneeyex.github.io/Share-Your-Best-Pics
+    <!-- <a href="https://oneeyex.github.io/Flask-template
 /">View Demo</a> -->
     ·
-    <a href="https://github.com/OneEyeX/Share-Your-Best-Pics/issues">Report Bug</a>
+    <a href="https://github.com/OneEyeX/Flask-template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/OneEyeX/Share-Your-Best-Pics/issues">Request Feature</a>
+    <a href="https://github.com/OneEyeX/Flask-template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -64,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Share-Your-Best-Pics Screen Shot][product-screenshot]](screenshots/flask.png)
+[![Flask-template Screen Shot][product-screenshot]](screenshots/flask.png)
 
 It's a simple Flask template contains some fundamental functionalities (login, logout, add and delete stuff) for your project to save you some time for focusing on other things.
 
@@ -125,7 +125,7 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Clone the repo by running
 
    ```sh
-   git clone https://github.com/OneEyeX/Share-Your-Best-Pics.git
+   git clone https://github.com/OneEyeX/Flask-template.git
    ```
 2. setting up and activating the Virtual Environment
 
@@ -166,7 +166,7 @@ for a dev server. Navigate to `http://127.0.0.1:5000`. The application will auto
 <!-- USAGE EXAMPLES -->
 ## Issues
 
-See the [open issues](https://github.com/OneEyeX/Share-Your-Best-Pics/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/OneEyeX/Flask-template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -204,8 +204,8 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 Chedly Chahed - [@chedly_chahed](https://twitter.com/chedly_chahed) - **chedly.chahed@insat.u-carthage.tn**
 
-Project Link: [https://github.com/OneEyeX/Share-Your-Best-Pics
-](https://github.com/OneEyeX/Share-Your-Best-Pics
+Project Link: [https://github.com/OneEyeX/Flask-template
+](https://github.com/OneEyeX/Flask-template
 )
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -214,16 +214,16 @@ Project Link: [https://github.com/OneEyeX/Share-Your-Best-Pics
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!--  #reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/OneEyeX/Share-Your-Best-Pics.svg?style=for-the-badge
-[contributors-url]: https://github.com/OneEyeX/Share-Your-Best-Pics/graphs/
-[forks-shield]: https://img.shields.io/github/forks/OneEyeX/Share-Your-Best-Pics.svg?style=for-the-badge
-[forks-url]: https://github.com/OneEyeX/Share-Your-Best-Pics/network/members
-[stars-shield]: https://img.shields.io/github/stars/OneEyeX/Share-Your-Best-Pics.svg?style=for-the-badge
-[stars-url]: https://github.com/OneEyeX/Share-Your-Best-Pics/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/OneEyeX/Flask-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/OneEyeX/Flask-template/graphs/
+[forks-shield]: https://img.shields.io/github/forks/OneEyeX/Flask-template.svg?style=for-the-badge
+[forks-url]: https://github.com/OneEyeX/Flask-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/OneEyeX/Flask-template.svg?style=for-the-badge
+[stars-url]: https://github.com/OneEyeX/Flask-template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/OneEyeX/Share-Your-Best-Pics/issues
-[license-shield]: https://img.shields.io/github/license/OneEyeX/Share-Your-Best-Pics.svg?style=for-the-badge
-[license-url]: https://github.com/OneEyeX/Share-Your-Best-Pics/LICENSE.md
+[issues-url]: https://github.com/OneEyeX/Flask-template/issues
+[license-shield]: https://img.shields.io/github/license/OneEyeX/Flask-template.svg?style=for-the-badge
+[license-url]: https://github.com/OneEyeX/Flask-template/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chedly-chahed-a178a9196/
 [product-screenshot]: screenshots/A.png
